@@ -31,3 +31,7 @@ http://fserver.yellowiptv.com/live/hls/fe1e243d0d/313.ts
 http://fserver.yellowiptv.com/live/hls/fe1e243d0d/299.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BFM Business" tvg-logo="http://aimages.yellowiptv.com/945.png" group-title="French",BFM Business
 http://fserver.yellowiptv.com/live/hls/fe1e243d0d/945.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Infosport FR" tvg-logo="http://aimages.yellowiptv.com/7009.png" group-title="French",Infosport FR
+http://fserver.yellowiptv.com/live/hls/fe1e243d0d/7009.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Rmc sport NEWS" tvg-logo="http://aimages.yellowiptv.com/20699.png" group-title="French",Rmc sport NEWS
+http://fserver.yellowiptv.com/live/hls/fe1e243d0d/20699.ts
