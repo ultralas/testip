@@ -175,7 +175,7 @@ http://fserver.yellowiptv.com/live/hls/fe1e243d0d/20141.ts
 http://fserver.yellowiptv.com/live/hls/fe1e243d0d/20142.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Bein Sport Max 10" tvg-logo="http://aimages.yellowiptv.com/20143.png" group-title="Bein Sports",Bein Sport Max 10
 http://fserver.yellowiptv.com/live/hls/fe1e243d0d/20143.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bein sports hd" tvg-logo="http://aimages.yellowiptv.com/13628.png" group-title="USA",Bein sports hd
+#EXTINF:-1 tvg-ID="" tvg-name="Bein sports hd" tvg-logo="http://aimages.yellowiptv.com/13628.png" group-title="Bein Sports",Bein sports hd
 http://fserver.yellowiptv.com/live/hls/fe1e243d0d/13628.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Bein Sports MAX 1 FHD" tvg-logo="http://aimages.yellowiptv.com/20285.png" group-title="Bein Sports",Bein Sports MAX 1 FHD
 http://fserver.yellowiptv.com/live/hls/fe1e243d0d/20285.ts
@@ -649,7 +649,7 @@ http://fserver.yellowiptv.com/live/hls/fe1e243d0d/11103.ts
 http://fserver.yellowiptv.com/live/hls/fe1e243d0d/31.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Mbc 2 HD" tvg-logo="http://aimages.yellowiptv.com/11104.png" group-title="Arabic",Mbc 2 HD
 http://fserver.yellowiptv.com/live/hls/fe1e243d0d/11104.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MBC 3" tvg-logo="http://aimages.yellowiptv.com/32.png" group-title="Kids",MBC 3
+#EXTINF:-1 tvg-ID="" tvg-name="MBC 3" tvg-logo="http://aimages.yellowiptv.com/32.png" group-title="Arabic",MBC 3
 http://fserver.yellowiptv.com/live/hls/fe1e243d0d/32.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Mbc 3 HD" tvg-logo="http://aimages.yellowiptv.com/11105.png" group-title="Arabic",Mbc 3 HD
 http://fserver.yellowiptv.com/live/hls/fe1e243d0d/11105.ts
