@@ -537,27 +537,27 @@ http://fserver.yellowiptv.com/live/hls/fe1e243d0d/6072.ts
 http://fserver.yellowiptv.com/live/hls/fe1e243d0d/307.ts
 #EXTINF:-1 tvg-ID="" tvg-name="AlEKhbaria" tvg-logo="http://aimages.yellowiptv.com/1011.png" group-title="Arabic",AlEKhbaria
 http://fserver.yellowiptv.com/live/hls/fe1e243d0d/1011.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Info Box Office" tvg-logo="http://aimages.yellowiptv.com/11022.png" group-title="Box Office",Info Box Office
+#EXTINF:-1 tvg-ID="" tvg-name="Info Box Office" tvg-logo="http://aimages.yellowiptv.com/11022.png" group-title="Film",Info Box Office
 http://fserver.yellowiptv.com/live/hls/fe1e243d0d/11022.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Arabic Box Office 01" tvg-logo="http://aimages.yellowiptv.com/5000.png" group-title="Box Office",Arabic Box Office 01
+#EXTINF:-1 tvg-ID="" tvg-name="Arabic Box Office 01" tvg-logo="http://aimages.yellowiptv.com/5000.png" group-title="Film",Arabic Box Office 01
 http://fserver.yellowiptv.com/live/hls/fe1e243d0d/5000.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Arabic Box Office 02" tvg-logo="http://aimages.yellowiptv.com/5002.png" group-title="Box Office",Arabic Box Office 02
+#EXTINF:-1 tvg-ID="" tvg-name="Arabic Box Office 02" tvg-logo="http://aimages.yellowiptv.com/5002.png" group-title="Film",Arabic Box Office 02
 http://fserver.yellowiptv.com/live/hls/fe1e243d0d/5002.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Arabic Box Office 03" tvg-logo="http://aimages.yellowiptv.com/5003.png" group-title="Box Office",Arabic Box Office 03
+#EXTINF:-1 tvg-ID="" tvg-name="Arabic Box Office 03" tvg-logo="http://aimages.yellowiptv.com/5003.png" group-title="Film",Arabic Box Office 03
 http://fserver.yellowiptv.com/live/hls/fe1e243d0d/5003.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Arabic Box Office 04" tvg-logo="http://aimages.yellowiptv.com/5004.png" group-title="Box Office",Arabic Box Office 04
+#EXTINF:-1 tvg-ID="" tvg-name="Arabic Box Office 04" tvg-logo="http://aimages.yellowiptv.com/5004.png" group-title="Film",Arabic Box Office 04
 http://fserver.yellowiptv.com/live/hls/fe1e243d0d/5004.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Arabic Box Office 05" tvg-logo="http://aimages.yellowiptv.com/5005.png" group-title="Box Office",Arabic Box Office 05
+#EXTINF:-1 tvg-ID="" tvg-name="Arabic Box Office 05" tvg-logo="http://aimages.yellowiptv.com/5005.png" group-title="Film",Arabic Box Office 05
 http://fserver.yellowiptv.com/live/hls/fe1e243d0d/5005.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Arabic Box Office 06" tvg-logo="http://aimages.yellowiptv.com/5006.png" group-title="Box Office",Arabic Box Office 06
+#EXTINF:-1 tvg-ID="" tvg-name="Arabic Box Office 06" tvg-logo="http://aimages.yellowiptv.com/5006.png" group-title="Film",Arabic Box Office 06
 http://fserver.yellowiptv.com/live/hls/fe1e243d0d/5006.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Arabic Box Office 07" tvg-logo="http://aimages.yellowiptv.com/5007.png" group-title="Box Office",Arabic Box Office 07
+#EXTINF:-1 tvg-ID="" tvg-name="Arabic Box Office 07" tvg-logo="http://aimages.yellowiptv.com/5007.png" group-title="Film",Arabic Box Office 07
 http://fserver.yellowiptv.com/live/hls/fe1e243d0d/5007.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Arabic Box Office 08" tvg-logo="http://aimages.yellowiptv.com/5008.png" group-title="Box Office",Arabic Box Office 08
+#EXTINF:-1 tvg-ID="" tvg-name="Arabic Box Office 08" tvg-logo="http://aimages.yellowiptv.com/5008.png" group-title="Film",Arabic Box Office 08
 http://fserver.yellowiptv.com/live/hls/fe1e243d0d/5008.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Arabic Box Office 09" tvg-logo="http://aimages.yellowiptv.com/5009.png" group-title="Box Office",Arabic Box Office 09
+#EXTINF:-1 tvg-ID="" tvg-name="Arabic Box Office 09" tvg-logo="http://aimages.yellowiptv.com/5009.png" group-title="Film",Arabic Box Office 09
 http://fserver.yellowiptv.com/live/hls/fe1e243d0d/5009.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Arabic Box Office 10" tvg-logo="http://aimages.yellowiptv.com/5010.png" group-title="Box Office",Arabic Box Office 10
+#EXTINF:-1 tvg-ID="" tvg-name="Arabic Box Office 10" tvg-logo="http://aimages.yellowiptv.com/5010.png" group-title="Film",Arabic Box Office 10
 http://fserver.yellowiptv.com/live/hls/fe1e243d0d/5010.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ART Aflem 1" tvg-logo="http://aimages.yellowiptv.com/40.png" group-title="Arabic",ART Aflem 1
 http://fserver.yellowiptv.com/live/hls/fe1e243d0d/40.ts
