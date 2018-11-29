@@ -1,6 +1,7 @@
-﻿#EXTM3U
-http://fserver.yellowiptv.com/live/hls/fe1e243d0d/944.ts
+#EXTM3U
 #EXTINF:-1 tvg-ID="" tvg-name="TF1" tvg-logo="http://aimages.yellowiptv.com/5041.png" group-title="French",TF1
+http://fserver.yellowiptv.com/live/hls/fe1e243d0d/714.ts
+#EXTINF:-1 tvg-ID="" tvg-name="France 2" tvg-logo="http://aimages.yellowiptv.com/303.png" group-title="French",France 2
 http://fserver.yellowiptv.com/live/hls/fe1e243d0d/303.ts
 #EXTINF:-1 tvg-ID="" tvg-name="France 3" tvg-logo="http://aimages.yellowiptv.com/302.png" group-title="French",France 3
 http://fserver.yellowiptv.com/live/hls/fe1e243d0d/302.ts
