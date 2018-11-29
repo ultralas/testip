@@ -1,0 +1,32 @@
+﻿#EXTM3U
+http://fserver.yellowiptv.com/live/hls/fe1e243d0d/944.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TF1" tvg-logo="http://aimages.yellowiptv.com/5041.png" group-title="French",TF1
+http://fserver.yellowiptv.com/live/hls/fe1e243d0d/303.ts
+#EXTINF:-1 tvg-ID="" tvg-name="France 3" tvg-logo="http://aimages.yellowiptv.com/302.png" group-title="French",France 3
+http://fserver.yellowiptv.com/live/hls/fe1e243d0d/302.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Canal+" tvg-logo="http://aimages.yellowiptv.com/800.png" group-title="French",Canal+
+http://fserver.yellowiptv.com/live/hls/fe1e243d0d/313.ts
+#EXTINF:-1 tvg-ID="" tvg-name="France 5" tvg-logo="http://aimages.yellowiptv.com/304.png" group-title="French",France 5
+http://fserver.yellowiptv.com/live/hls/fe1e243d0d/20244.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M6" tvg-logo="http://aimages.yellowiptv.com/104.png" group-title="French",M6
+http://fserver.yellowiptv.com/live/hls/fe1e243d0d/104.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ARTE" tvg-logo="http://aimages.yellowiptv.com/301.png" group-title="French",ARTE
+http://fserver.yellowiptv.com/live/hls/fe1e243d0d/301.ts
+#EXTINF:-1 tvg-ID="" tvg-name="C8 Local" tvg-logo="http://aimages.yellowiptv.com/13054.png" group-title="French",C8 Local
+http://fserver.yellowiptv.com/live/hls/fe1e243d0d/13054.ts
+#EXTINF:-1 tvg-ID="" tvg-name="W9" tvg-logo="http://aimages.yellowiptv.com/315.png" group-title="French",W9
+http://fserver.yellowiptv.com/live/hls/fe1e243d0d/315.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TMC" tvg-logo="http://aimages.yellowiptv.com/298.png" group-title="French",TMC
+http://fserver.yellowiptv.com/live/hls/fe1e243d0d/298.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NT1" tvg-logo="http://aimages.yellowiptv.com/5048.png" group-title="French",NT1
+http://fserver.yellowiptv.com/live/hls/fe1e243d0d/5048.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NRJ 12" tvg-logo="http://aimages.yellowiptv.com/297.png" group-title="French",NRJ 12
+http://fserver.yellowiptv.com/live/hls/fe1e243d0d/297.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV5 Monde Orient" tvg-logo="http://aimages.yellowiptv.com/895.png" group-title="French",TV5 Monde Orient
+http://fserver.yellowiptv.com/live/hls/fe1e243d0d/895.ts
+#EXTINF:-1 tvg-ID="" tvg-name="France 4" tvg-logo="http://aimages.yellowiptv.com/313.png" group-title="French",France 4
+http://fserver.yellowiptv.com/live/hls/fe1e243d0d/313.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BFM TV" tvg-logo="http://aimages.yellowiptv.com/299.png" group-title="French",BFM TV
+http://fserver.yellowiptv.com/live/hls/fe1e243d0d/299.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BFM Business" tvg-logo="http://aimages.yellowiptv.com/945.png" group-title="French",BFM Business
+http://fserver.yellowiptv.com/live/hls/fe1e243d0d/945.ts
